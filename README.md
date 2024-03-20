@@ -1,9 +1,9 @@
-##2024 Amazon Best Sellers: Top Valentine Gifts 🎯💘
+2024 Amazon Best Sellers: Top Valentine Gifts 🎯💘
 
-##Overview:
+Overview:
 Dive into the heart of Valentine's Day shopping trends with our curated dataset, "2024 Amazon Best Sellers: Top Valentine Gifts." This dataset offers a snapshot of the most popular gifts purchased from Amazon for Valentine's Day in 2024, providing unique insights into consumer preferences and market dynamics during the season of love.
 
-##Dataset Details:
+Dataset Details:
 The dataset is structured into key columns, detailed as follows:
 
 title: Name of the product.
@@ -14,7 +14,7 @@ reviewsCount: Total number of reviews.
 price: Listed price of the product in USD.
 categoryPageData: Product's positioning data on Amazon's category pages.
 
-##Answered following questions using Pandas: 
+Answered following questions using Pandas: 
 1. Which products and brands have the best & worst reviews? Why do you think this is?
 2. What brands are on the best seller list most often?
 3. Are there any trends between prices and ratings?
